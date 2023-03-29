@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+}
+.container{
+  background-color: cyan;
+  padding: 20px;
+  border: 2px solid darkred;
+  border-radius: 15px;
+}
+.card{
+  margin-left: 180px;
+}
